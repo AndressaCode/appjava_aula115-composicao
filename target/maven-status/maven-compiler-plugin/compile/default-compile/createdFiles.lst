@@ -1,0 +1,5 @@
+entities\Worker.class
+application\Program.class
+entities\Department.class
+entities\enums\WorkerLevel.class
+entities\HourContract.class
